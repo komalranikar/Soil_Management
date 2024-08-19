@@ -12,25 +12,24 @@ The **Crop and Soil Management System** is an interactive application built usin
   - **Input Fields**: Soil type, temperature, and region.
   - **Output**: Provides crop recommendations and planting tips based on the inputs. For example, it suggests crops like Rice and Sorghum for Chhattisgarh and Wheat and Barley for Punjab.
   ![Screenshot](cropsel.png)
-  ![Screenshot](ss.png)
+  ![Screenshot](cropsel1.png)
 
 - **Soil Management**:
   - **Input Fields**: Soil pH and nitrogen content.
   - **Output**: Offers tailored suggestions for soil management actions, such as adding nitrogen-rich fertilizers for soils with low nitrogen content.
-![Screenshot](ss.png)
-![Screenshot](ss.png)
+![Screenshot](soilmgmt.png)
+![Screenshot](soilmgmt.png)
 
 - **Disease Identification**:
   - **Input Field**: Symptoms of crop diseases.
   - **Output**: Diagnoses possible diseases based on described symptoms and recommends treatment options. For instance, it identifies Nitrogen Deficiency or Blight based on symptoms like yellow leaves.
-![Screenshot](ss.png)
-![Screenshot](ss.png)
+![Screenshot](dis.png)
 
 - **Weather Forecast**:
   - **Input Field**: Region.
   - **Output**: Provides current weather conditions and forecasts specific to the input region, helping farmers plan their activities effectively.
-![Screenshot](ss.png)
-![Screenshot](ss.png)
+![Screenshot](weather.png)
+![Screenshot](weather1.png)
 
 - **Sustainable Farming Practices**:
   - **Input**: Selection of sustainable practices from a dropdown menu.

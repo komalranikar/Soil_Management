@@ -13,6 +13,7 @@ The **Crop and Soil Management System** is an interactive application built usin
   - **Output**: Provides crop recommendations and planting tips based on the inputs. For example, it suggests crops like Rice and Sorghum for Chhattisgarh and Wheat and Barley for Punjab.
   
   ![Screenshot](cropsel.png)
+  
   ![Screenshot](cropsel1.png)
 
 - **Soil Management**:
@@ -20,6 +21,7 @@ The **Crop and Soil Management System** is an interactive application built usin
   - **Output**: Offers tailored suggestions for soil management actions, such as adding nitrogen-rich fertilizers for soils with low nitrogen content.
 
 ![Screenshot](soilmgmt.png)
+
 ![Screenshot](soilmgmt.png)
 
 - **Disease Identification**:
@@ -33,6 +35,7 @@ The **Crop and Soil Management System** is an interactive application built usin
   - **Output**: Provides current weather conditions and forecasts specific to the input region, helping farmers plan their activities effectively.
 
 ![Screenshot](weather.png)
+
 ![Screenshot](weather1.png)
 
 - **Sustainable Farming Practices**:
@@ -40,6 +43,7 @@ The **Crop and Soil Management System** is an interactive application built usin
   - **Output**: Recommends practices such as drip irrigation, organic pest control, and crop rotation to promote environmental sustainability and resource efficiency.
 
 ![Screenshot](water.png)
+
 ![Screenshot](water1.png)
 
 - **Market Information**:
@@ -53,6 +57,7 @@ The **Crop and Soil Management System** is an interactive application built usin
   - **Output**: Lists government schemes and subsidies available in the input region, such as Pradhan Mantri Fasal Bima Yojana for Punjab and Mera Gaon Mera Gaurav for Chhattisgarh.
 
 ![Screenshot](govt.png)
+
 ![Screenshot](govt1.png)
 
 ### Technology Stack
@@ -60,3 +65,4 @@ The **Crop and Soil Management System** is an interactive application built usin
 - **Python 3.x**: The programming language used for development.
 - **Tkinter**: The graphical user interface (GUI) toolkit for building the application's interface.
 - **MessageBox**: For displaying information and recommendations to users.
+- **VSCODE** : For Code execution

@@ -11,43 +11,49 @@ The **Crop and Soil Management System** is an interactive application built usin
 - **Crop Selection Assistance**: 
   - **Input Fields**: Soil type, temperature, and region.
   - **Output**: Provides crop recommendations and planting tips based on the inputs. For example, it suggests crops like Rice and Sorghum for Chhattisgarh and Wheat and Barley for Punjab.
+  
   ![Screenshot](cropsel.png)
   ![Screenshot](cropsel1.png)
 
 - **Soil Management**:
   - **Input Fields**: Soil pH and nitrogen content.
   - **Output**: Offers tailored suggestions for soil management actions, such as adding nitrogen-rich fertilizers for soils with low nitrogen content.
+
 ![Screenshot](soilmgmt.png)
 ![Screenshot](soilmgmt.png)
 
 - **Disease Identification**:
   - **Input Field**: Symptoms of crop diseases.
   - **Output**: Diagnoses possible diseases based on described symptoms and recommends treatment options. For instance, it identifies Nitrogen Deficiency or Blight based on symptoms like yellow leaves.
+
 ![Screenshot](dis.png)
 
 - **Weather Forecast**:
   - **Input Field**: Region.
   - **Output**: Provides current weather conditions and forecasts specific to the input region, helping farmers plan their activities effectively.
+
 ![Screenshot](weather.png)
 ![Screenshot](weather1.png)
 
 - **Sustainable Farming Practices**:
   - **Input**: Selection of sustainable practices from a dropdown menu.
   - **Output**: Recommends practices such as drip irrigation, organic pest control, and crop rotation to promote environmental sustainability and resource efficiency.
-![Screenshot](ss.png)
-![Screenshot](ss.png)
+
+![Screenshot](water.png)
+![Screenshot](water1.png)
 
 - **Market Information**:
   - **Input Field**: Crop name.
   - **Output**: Supplies market price information for specified crops, assisting farmers in making informed marketing decisions.
-![Screenshot](ss.png)
-![Screenshot](ss.png)
+
+![Screenshot](mrkt.png)
 
 - **Government Schemes**:
   - **Input Field**: Region.
   - **Output**: Lists government schemes and subsidies available in the input region, such as Pradhan Mantri Fasal Bima Yojana for Punjab and Mera Gaon Mera Gaurav for Chhattisgarh.
-![Screenshot](ss.png)
-![Screenshot](ss.png)
+
+![Screenshot](govt.png)
+![Screenshot](govt1.png)
 
 ### Technology Stack
 

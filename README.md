@@ -4,7 +4,7 @@
 
 ### Overview
 
-The **Crop and Soil Management System** is an interactive application built using Python's Tkinter library, designed to support farmers in making informed decisions about their agricultural practices. Created for a hackathon, this application provides a comprehensive suite of tools to enhance farming efficiency and sustainability. The system integrates various functionalities, including crop selection, soil management, disease identification, weather forecasting, and more, tailored to the needs of farmers in different regions, with a focus on regions like Chhattisgarh and Punjab.
+The **Crop and Soil Management System** is an interactive application built using Python's Tkinter library, designed to support farmers in making informed decisions about their agricultural practices. Created for a hackathon, this application provides a comprehensive suite of tools to enhance farming efficiency and sustainability. The system integrates various functionalities, including crop selection, soil management, disease identification, weather forecasting, and more, tailored to the needs of farmers in different regions.
 
 ### Features
 

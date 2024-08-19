@@ -11,7 +11,7 @@ The **Crop and Soil Management System** is an interactive application built usin
 - **Crop Selection Assistance**: 
   - **Input Fields**: Soil type, temperature, and region.
   - **Output**: Provides crop recommendations and planting tips based on the inputs. For example, it suggests crops like Rice and Sorghum for Chhattisgarh and Wheat and Barley for Punjab.
-  ![Screenshot](crop sel.png)
+  ![Screenshot](cropsel.png)
   ![Screenshot](ss.png)
 
 - **Soil Management**:
